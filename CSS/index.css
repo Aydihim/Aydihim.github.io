@@ -1,0 +1,89 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  background-color: #4a6c78;
+  color: #cfd6c0;
+  font-family: "Courier New", Courier, monospace;
+  align-items: center;
+}
+.header-item {
+  padding: 0px 10px;
+  font-size: 18px;
+  text-transform: uppercase;
+  margin-left: 5px;
+}
+a {
+  text-decoration: none;
+  color: #cfd6c0;
+}
+a:hover {
+  color: #f3cf65;
+}
+.about {
+  display: flex;
+  height: 400px;
+  padding: 80px 200px 100px 200px;
+  font-family: "Courier New", monospace;
+  font-size: 16px;
+}
+.story {
+  margin: 100px 200px 0px 0px;
+  text-align: center;
+}
+.ava {
+  width: 270px;
+  height: 400px;
+  object-fit: cover;
+  margin-right: 50px;
+}
+.present {
+  display: flex;
+  background-color: #758a88;
+  color: white;
+  height: 630px;
+  padding: 50px 200px;
+}
+.pictures {
+  display: flex;
+}
+.poster {
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+  padding: 10px;
+}
+.hob {
+  margin: 200px 0px 0px 100px;
+  text-align: center;
+  font-family: "Courier New", monospace;
+}
+.future {
+  height: 550px;
+  padding: 100px 200px;
+  font-family: "Courier New", monospace;
+}
+h2 {
+  text-align: center;
+}
+.want {
+  text-align: center;
+}
+.dream {
+  padding: 50px 100px 100px 100px;
+}
+.lovely {
+  width: 220px;
+  height: 320px;
+  object-fit: cover;
+  margin: 0px 30px;
+}
+.footer {
+  height: 50px;
+  background-color: #4a6c78;
+  text-align: center;
+  padding: 20px;
+}
+.icon {
+  padding: 5px 0px;
+}
